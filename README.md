@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Приветики (^-^)/♥
 
 <a href="https://github.com/Akwatore/DiskrMat">Дискретная математика</a>
 
