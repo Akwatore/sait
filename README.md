@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 <a href"https://github.com/Akwatore/DiskrMat">Дискретная математика</a>
+
 <a href"https://github.com/Akwatore/AlgoritmAnaliz">Алгоритмы и анализ сложности</a>
 
 You can use the [editor on GitHub](https://github.com/Akwatore/sait/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
