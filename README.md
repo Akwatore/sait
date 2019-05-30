@@ -1,9 +1,13 @@
-## Портфолио студентки РГПУ им. Герцена, ИКНиТО, ИВТ, 2 курс
+## Портфолио студентки РГПУ им. Герцена, ИКНиТО, ИВТ
 ## Пляскиной Ульяны Сергеевны
+
+1 курс
 
 <a href="https://github.com/Akwatore/DiskrMat">Дискретная математика</a>
 
 <a href="https://github.com/Akwatore/AlgoritmAnaliz">Алгоритмы и анализ сложности</a>
+
+2 курс
 
 <a href="https://github.com/Akwatore/AlgoritmAnaliz">Компьютерный практикум</a>
 
