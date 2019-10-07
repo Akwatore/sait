@@ -9,10 +9,8 @@
 
 2 курс
 
-<a href="https://github.com/Akwatore/AlgoritmAnaliz">Компьютерный практикум</a>
+<a href="https://github.com/Akwatore/ObogashenieInterfeisiWeb">Обогащенные интерфейсы веб-приложений</a>
 
-<a href="https://github.com/Akwatore/AlgoritmAnaliz">Обогащенные интерфейсы веб-приложений</a>
+<a href="https://github.com/Akwatore/WebProektirovanie">Веб-проектирование</a>
 
-<a href="https://github.com/Akwatore/AlgoritmAnaliz">Веб-проектирование</a>
-
-<a href="https://github.com/Akwatore/AlgoritmAnaliz">Программирование</a>
+<a href="https://github.com/Akwatore/ZadaniyaPoTrebovaniyam">Задания по требованиям</a>
