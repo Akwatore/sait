@@ -9,7 +9,7 @@
 
 ## 2 курс
 
-<a href="https://github.com/Akwatore/ObogashenieInterfeisiWeb">Обогащенные интерфейсы веб-приложений</a>
+### Обогащенные интерфейсы веб-приложений
 
 ### Веб-проектирование
 
@@ -23,4 +23,4 @@
 - <a href="https://kodaktor.ru/65a1322">Коллбэки</a>
 - <a href="https://kodaktor.ru/adb60bb">Введение в DOM</a>
 
-<a href="https://github.com/Akwatore/ZadaniyaPoTrebovaniyam">Задания по требованиям</a>
+### Задания по требованиям
