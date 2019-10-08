@@ -17,6 +17,7 @@
 - <a href="https://kodaktor.ru/3a4c999">Canvas ( 14-03-2019 )</a>
 - <a href="https://kodaktor.ru/51f4066">Pointer ( 23-03-2019 )</a>
 - <a href="https://kodaktor.ru/e19fc3c">Mixer ( 28-03-2019 )</a>
+- <a href="https://kodaktor.ru/378d16e">Два реактивных поля ( 04-04-2019 )</a>
 
 ### Веб-проектирование
 
