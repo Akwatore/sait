@@ -33,8 +33,8 @@
 ### Задания по требованиям
 - <a href="https://kodaktor.ru/f8a94e9">Func-001</a>
 - <a href="https://kodaktor.ru/dced62d">Func-002</a>
-- <a href="https://kodaktor.ru/adb60bb">Func-003</a>
-- <a href="https://kodaktor.ru/adb60bb">Func-004</a>
+- <a href="https://kodaktor.ru/0add7dd">Func-003</a>
+- <a href="https://kodaktor.ru/62d02d3">Func-004</a>
 - <a href="https://kodaktor.ru/adb60bb">Func-005</a>
 - <a href="https://kodaktor.ru/adb60bb">Func-006</a>
 - <a href="https://kodaktor.ru/adb60bb">Func-007</a>
