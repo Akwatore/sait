@@ -38,10 +38,10 @@
 - <a href="https://kodaktor.ru/09b029d">Func-005</a>
 - <a href="https://kodaktor.ru/7007b91">Func-006</a>
 - <a href="https://kodaktor.ru/8f7f74d">Func-007</a>
-- <a href="https://kodaktor.ru/adb60bb">Func-008</a>
-- <a href="https://kodaktor.ru/adb60bb">Func-009</a>
-- <a href="https://kodaktor.ru/adb60bb">Func-010</a>
-- <a href="https://kodaktor.ru/adb60bb">IPS</a>
+- <a href="https://kodaktor.ru/8103c2f">Func-008</a>
+- <a href="https://kodaktor.ru/c9a4769">Func-009</a>
+- <a href="https://kodaktor.ru/475d274">Func-010</a>
+- <a href="https://kodaktor.ru/e438d84">IPS</a>
 - <a href="https://kodaktor.ru/adb60bb">EVNT_002</a>
 - <a href="https://kodaktor.ru/adb60bb">BABL_002</a>
 - <a href="https://kodaktor.ru/adb60bb">CART</a>
