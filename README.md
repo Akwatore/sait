@@ -42,7 +42,6 @@
 - <a href="https://kodaktor.ru/c9a4769">Func-009</a>
 - <a href="https://kodaktor.ru/475d274">Func-010</a>
 - <a href="https://kodaktor.ru/e438d84">IPS</a>
-- <a href="https://kodaktor.ru/adb60bb">EVNT_002</a>
-- <a href="https://kodaktor.ru/adb60bb">BABL_002</a>
-- <a href="https://kodaktor.ru/adb60bb">CART</a>
-- <a href="https://kodaktor.ru/adb60bb">FRMW_002</a>
+- <a href="https://kodaktor.ru/f7eb488">EVNT_002</a>
+- <a href="https://kodaktor.ru/a8788bf">BABL_002</a>
+- <a href="https://kodaktor.ru/02a8177">CART</a>
