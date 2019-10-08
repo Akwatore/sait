@@ -16,7 +16,7 @@
 - <a href="https://kodaktor.ru/02a8177">Интеренет магазин + Drag and Drop ( 28-02-2019 )</a>
 - <a href="https://kodaktor.ru/3a4c999">Canvas ( 14-03-2019 )</a>
 - <a href="https://kodaktor.ru/51f4066">Pointer ( 23-03-2019 )</a>
-- <a href="https://kodaktor.ru/8132ae4">Mixer ( 28-03-2019 )</a>
+- <a href="https://kodaktor.ru/e19fc3c">Mixer ( 28-03-2019 )</a>
 
 ### Веб-проектирование
 
