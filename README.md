@@ -31,18 +31,18 @@
 - <a href="https://kodaktor.ru/adb60bb">Введение в DOM</a>
 
 ### Задания по требованиям
-- Func-001
-- Func-002
-- Func-003
-- Func-004
-- Func-005
-- Func-006
-- Func-007
-- Func-008
-- Func-009
-- Func-010
-- IPS
-- EVNT_002
-- BABL_002
-- CART
-- FRMW_002
+- <a href="https://kodaktor.ru/f8a94e9">Func-001</a>
+- <a href="https://kodaktor.ru/dced62d">Func-002</a>
+- <a href="https://kodaktor.ru/adb60bb">Func-003</a>
+- <a href="https://kodaktor.ru/adb60bb">Func-004</a>
+- <a href="https://kodaktor.ru/adb60bb">Func-005</a>
+- <a href="https://kodaktor.ru/adb60bb">Func-006</a>
+- <a href="https://kodaktor.ru/adb60bb">Func-007</a>
+- <a href="https://kodaktor.ru/adb60bb">Func-008</a>
+- <a href="https://kodaktor.ru/adb60bb">Func-009</a>
+- <a href="https://kodaktor.ru/adb60bb">Func-010</a>
+- <a href="https://kodaktor.ru/adb60bb">IPS</a>
+- <a href="https://kodaktor.ru/adb60bb">EVNT_002</a>
+- <a href="https://kodaktor.ru/adb60bb">BABL_002</a>
+- <a href="https://kodaktor.ru/adb60bb">CART</a>
+- <a href="https://kodaktor.ru/adb60bb">FRMW_002</a>
