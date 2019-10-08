@@ -12,7 +12,7 @@
 ### Обогащенные интерфейсы веб-приложений
 - <a href="https://kodaktor.ru/d7477f8">Прототип UI для API nd.kodaktor.ru ( 02-02-2018 и 07-02-2019 )</a>
 - <a href="https://kodaktor.ru/9e71171">Интерфейсы HTML5 API ( 14-02-19 )</a>
-- <a href="https://kodaktor.ru/8132ae4">Мини-интернет магазин ( 21-02-2019 )</a>
+- <a href="https://kodaktor.ru/397a9b8">Мини-интернет магазин ( 21-02-2019 )</a>
 - <a href="https://kodaktor.ru/8132ae4">Интеренет магазин + Drag and Drop ( 28-02-2019 )</a>
 - <a href="https://kodaktor.ru/8132ae4">Canvas ( 14-03-2019 )</a>
 - <a href="https://kodaktor.ru/8132ae4">Pointer ( 23-03-2019 )</a>
