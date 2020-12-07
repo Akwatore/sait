@@ -53,7 +53,7 @@
 
 - <a href="https://github.com/Akwatore/week_1">week1</a>
 
-![Image alt](https://github.com/Akwatore/sait/blob/master/week1.jpg)
+![Иллюстрация к проекту](https://github.com/Akwatore/sait/blob/master/week1.jpg)
 
 - <a href="https://github.com/Akwatore/week_1">week2</a>
 - <a href="https://github.com/Akwatore/week_1">week3</a>
