@@ -55,3 +55,7 @@
 - <a href="https://github.com/Akwatore/week_1">week2</a>
 - <a href="https://github.com/Akwatore/week_1">week3</a>
 - <a href="https://github.com/Akwatore/week_4">week4</a>
+
+### Курсовая работа по ЭИОС
+
+- <a href="https://github.com/Akwatore/Coursework_EIOS">Проектирование и разработка SCORM-пакета со слайдами</a>
