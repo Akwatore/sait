@@ -52,9 +52,6 @@
 ### Задания по ЭИОС
 
 - <a href="https://github.com/Akwatore/week_1">week1</a>
-
-![Иллюстрация к проекту](https://github.com/Akwatore/sait/blob/master/week1.jpg)
-
 - <a href="https://github.com/Akwatore/week_1">week2</a>
 - <a href="https://github.com/Akwatore/week_1">week3</a>
 - <a href="https://github.com/Akwatore/week_4">week4</a>
