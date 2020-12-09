@@ -1,4 +1,4 @@
-# Портфолио студентки РГПУ им. Герцена, ИИТиЭО, ИВТ
+# Портфолио студентки РГПУ им. Герцена, КИТиЭО, ИВТ
 # Пляскиной Ульяны Сергеевны
 
 ## 1 курс
@@ -49,13 +49,13 @@
 
 ## 4 курс
 
-### Задания по ЭИОС
+### Задания по ОЭОС
 
 - <a href="https://github.com/Akwatore/week_1">week1</a>
 - <a href="https://github.com/Akwatore/week_1">week2</a>
 - <a href="https://github.com/Akwatore/week_1">week3</a>
 - <a href="https://github.com/Akwatore/week_4">week4</a>
 
-### Курсовая работа по ЭИОС
+### Курсовая работа по ОЭОС
 
 - <a href="https://github.com/Akwatore/Coursework_EIOS">Проектирование и разработка SCORM-пакета со слайдами</a>
